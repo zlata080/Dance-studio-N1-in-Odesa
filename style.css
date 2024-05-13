@@ -1,5 +1,6 @@
 body {
   position: relative;
+  width: 1300px;
   height: 3854px;
 }
 
@@ -484,12 +485,8 @@ nav {
 }
 
 .gallery {
-  margin-top: 40px;
+  margin-top: 220%;
   text-align: center;
-  margin-left: 50%;
+  margin-left: 30%;
   color: #48a70e;
-}
-
-.picture {
-  color: black white;
 }
