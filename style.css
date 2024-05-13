@@ -1,0 +1,495 @@
+body {
+  position: relative;
+  height: 3854px;
+}
+
+.click1:hover {
+  color: green;
+}
+.click2:hover {
+  color: green;
+}
+
+.click3:hover {
+  color: green;
+}
+
+.click4:hover {
+  color: green;
+}
+
+.click5:hover {
+  color: green;
+}
+
+.click6:hover {
+  color: green;
+}
+
+.click7:hover {
+  color: green;
+}
+
+.click8:hover {
+  color: green;
+}
+
+header a {
+  color: black;
+  text-decoration: none;
+}
+
+header {
+  border-bottom: 1px solid grey;
+  height: 39px;
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+}
+
+.telephone {
+  margin-left: 10%;
+}
+
+.location {
+  margin-left: 10%;
+  margin-top: -10px;
+}
+
+.phone {
+  margin-left: -3%;
+  margin-top: -58px;
+}
+
+.locate {
+  margin-left: -3%;
+}
+
+.dance {
+  margin-left: 40%;
+  margin-top: -40px;
+}
+
+.text {
+  font-size: 40px;
+  color: #48a70e;
+  margin-top: -50px;
+}
+
+.dream {
+  margin-top: -50px;
+}
+
+.a {
+  margin-top: -30px;
+}
+
+.b {
+  margin-top: -10px;
+}
+.c {
+  margin-top: -16px;
+}
+
+.d {
+  position: absolute;
+  width: 650px;
+  height: 243px;
+  background: #d9d9d9;
+  border-radius: 15px;
+}
+
+.e {
+  margin-top: -20px;
+  text-align: center;
+}
+
+.f {
+  margin-top: -15px;
+  text-align: center;
+}
+
+.g {
+  text-align: center;
+  color: #e62269;
+}
+
+.h {
+  margin-top: 220px;
+  text-align: center;
+  margin-left: 50%;
+  color: #48a70e;
+}
+
+.i {
+  margin-top: -27px;
+  text-align: center;
+  margin-left: 50%;
+}
+
+.j {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 60px;
+  top: 395px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.k {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 60px;
+  top: 465px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.l {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 60px;
+  top: 535px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.m {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 440px;
+  top: 403px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.n {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 440px;
+  top: 465px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.o {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 440px;
+  top: 535px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.p {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 820px;
+  top: 395px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.q {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 820px;
+  top: 450px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.r {
+  position: absolute;
+  width: 190px;
+  height: 20px;
+  left: 820px;
+  top: 533px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 10px;
+}
+
+.s {
+  margin-top: 350px;
+  text-align: center;
+  margin-left: 50%;
+  color: #48a70e;
+}
+
+.t {
+  margin-left: 10%;
+  margin-top: 70px;
+}
+
+.u {
+  margin-left: 70%;
+  margin-top: -290px;
+}
+
+.v {
+  margin-left: 120%;
+  margin-top: -320px;
+}
+
+.texta {
+  margin-left: 15%;
+}
+
+.textb {
+  margin-left: 74%;
+  margin-top: -30px;
+}
+
+.textc {
+  width: 200px;
+  margin-left: 130%;
+  margin-top: -30px;
+}
+
+.buttona {
+  background: #48a70e;
+  border-radius: 5px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  margin-left: 15%;
+}
+
+.buttonb {
+  background: #48a70e;
+  border-radius: 5px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  margin-left: 74%;
+  margin-top: -30px;
+}
+
+.buttonc {
+  background: #48a70e;
+  border-radius: 5px;
+  width: 120px;
+  height: 25px;
+  text-align: center;
+  color: white;
+  margin-left: 130%;
+  margin-top: -39px;
+}
+
+.wait {
+  margin-top: 100px;
+  text-align: center;
+  margin-left: 50%;
+  color: #48a70e;
+}
+
+.imageb {
+  margin-left: 41%;
+  margin-top: -195px;
+}
+
+.imagec {
+  margin-left: 83%;
+  margin-top: -199px;
+}
+
+.imaged {
+  margin-left: 125%;
+  margin-top: -199px;
+}
+
+.teachera {
+  color: #48a70e;
+  margin-left: 7%;
+}
+
+.teacherb {
+  color: #48a70e;
+  margin-left: 47%;
+  margin-top: -24px;
+}
+
+.teacherc {
+  color: #48a70e;
+  margin-left: 89%;
+  width: 200px;
+  margin-top: -27px;
+}
+
+.teacherd {
+  color: #48a70e;
+  margin-left: 133%;
+  width: 200px;
+  margin-top: -31px;
+}
+
+.introa {
+  line-height: 2px;
+}
+
+.introb {
+  line-height: 2px;
+  margin-left: 40%;
+  margin-top: -16%;
+}
+
+.introc {
+  line-height: 2px;
+  margin-left: 82%;
+  width: 300px;
+  margin-top: -16%;
+}
+
+.introd {
+  line-height: 2px;
+  margin-left: 124%;
+  width: 300px;
+  margin-top: -16%;
+}
+
+.buttond {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+}
+
+.buttone {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+  margin-left: 39%;
+  margin-top: -47px;
+}
+
+.buttonf {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+  margin-left: 83%;
+  margin-top: -47px;
+}
+
+.buttong {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+  margin-left: 125%;
+  margin-top: -47px;
+}
+
+.imagee {
+  margin-left: 41%;
+  margin-top: 20px;
+}
+
+.imagef {
+  margin-left: 83%;
+  margin-top: -200px;
+}
+
+.teachere {
+  color: #48a70e;
+  margin-left: 47%;
+  margin-top: 30px;
+}
+
+.teacherf {
+  color: #48a70e;
+  margin-left: 89%;
+  width: 200px;
+  margin-top: -50px;
+}
+
+.introe {
+  line-height: 2px;
+  margin-left: 40%;
+  margin-top: 35px;
+}
+
+.introf {
+  line-height: 2px;
+  margin-left: 82%;
+  width: 300px;
+  margin-top: -16%;
+}
+
+.buttoni {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+  margin-left: 39%;
+  margin-top: 2px;
+}
+
+.buttonj {
+  line-height: 2px;
+  background: #48a70e;
+  border-radius: 5px;
+  width: 210px;
+  height: 30px;
+  text-align: center;
+  color: white;
+  margin-left: 83%;
+  margin-top: -46px;
+}
+
+.gallery {
+  margin-top: 40px;
+  text-align: center;
+  margin-left: 50%;
+  color: #48a70e;
+}
+
+.picture {
+  color: black white;
+}
